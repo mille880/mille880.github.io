@@ -7,7 +7,7 @@ const outputRoot = new URL("../out/", import.meta.url);
 test("creates a static homepage for GitHub Pages", async () => {
   const html = await readFile(new URL("index.html", outputRoot), "utf8");
 
-  assert.match(html, /<title>Thomas Miller/);
+  assert.match(html, /<title>Tommy Miller/);
   assert.match(html, /Curious by nature/);
   assert.match(html, /Building with intention/);
   assert.match(html, /trusted data foundations/);

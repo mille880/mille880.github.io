@@ -1,4 +1,4 @@
-# Thomas Miller — Personal Website
+# Tommy Miller — Personal Website
 
 This repository contains the first version of my personal website: a place to
 explore practical uses for AI, trusted data foundations, and projects built in
