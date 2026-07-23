@@ -14,21 +14,21 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://mille880.github.io"),
-  title: "Thomas Miller — AI, creativity & building in public",
+  title: "Tommy Miller — AI, creativity & building in public",
   description:
-    "Thomas Miller's home for exploring practical AI, creative technology, and a return to video storytelling.",
+    "Tommy Miller's home for exploring practical AI, creative technology, and a return to video storytelling.",
   openGraph: {
-    title: "Thomas Miller — AI, creativity & building in public",
+    title: "Tommy Miller — AI, creativity & building in public",
     description:
       "Exploring practical AI, creative technology, and a return to video storytelling.",
     url: "https://mille880.github.io",
-    siteName: "Thomas Miller",
+    siteName: "Tommy Miller",
     images: [{ url: "/og.png", width: 1734, height: 907 }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Thomas Miller — AI, creativity & building in public",
+    title: "Tommy Miller — AI, creativity & building in public",
     description:
       "Exploring practical AI, creative technology, and a return to video storytelling.",
     images: ["/og.png"],

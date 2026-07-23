@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <nav className="nav" aria-label="Primary navigation">
-        <a className="wordmark" href="#top" aria-label="Thomas Miller, home">
+        <a className="wordmark" href="#top" aria-label="Tommy Miller, home">
           TM<span>.</span>
         </a>
         <div className="navLinks">
@@ -25,7 +25,7 @@ export default function Home() {
           <em>Building with intention.</em>
         </h1>
         <p className="heroCopy">
-          I&apos;m Thomas Miller. My focus is building trusted data foundations
+          I&apos;m Tommy Miller. My focus is building trusted data foundations
           and finding practical uses for AI that simplify workflows, eliminate
           tedious tasks, and make reliable information easier to use.
         </p>
@@ -93,7 +93,7 @@ export default function Home() {
               href="https://github.com/mille880"
               target="_blank"
               rel="noreferrer"
-              aria-label="View Thomas Miller's GitHub profile"
+              aria-label="View Tommy Miller's GitHub profile"
             >
               View on GitHub <Arrow />
             </a>
@@ -164,7 +164,7 @@ export default function Home() {
       </section>
 
       <footer>
-        <span>© {new Date().getFullYear()} Thomas Miller</span>
+        <span>© {new Date().getFullYear()} Tommy Miller</span>
         <span>Designed to evolve.</span>
       </footer>
     </main>
