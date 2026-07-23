@@ -39,3 +39,9 @@ Create a production build:
 ```powershell
 npm.cmd run build
 ```
+
+## Deployment
+
+The production build generates a static site in `out/`. After GitHub Pages is
+enabled, the repository's deployment workflow will build and publish that
+folder whenever an approved change reaches `main`.
